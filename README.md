@@ -1,4 +1,4 @@
 # Random-Game 
 Paper beats Rock
-Rock beats Scissors
-Scissors beats Paper
+- Rock beats Scissors
+- Scissors beats Paper
