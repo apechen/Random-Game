@@ -1,2 +1,4 @@
-# Random-Game
-Created with CodeSandbox
+# Random-Game 
+Paper beats Rock
+Rock beats Scissors
+Scissors beats Paper
