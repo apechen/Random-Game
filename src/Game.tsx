@@ -1,6 +1,6 @@
 import React from "react";
 import rock from "../rock.png";
-import paper from "..paper.png";
+import paper from "../paper.png";
 import scissors from "../scissors.png";
 
 interface Choice {
